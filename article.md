@@ -4,7 +4,7 @@
 
 > **✅ Tested:** vectorbt 1.1.1 · Python 3.12 · Last verified: 2026-10-08 · [Update policy](https://goosos.com/about#freshness)
 
-> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $83,172 · ETH $2,580 — for context on when this was written.
+> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $83,083 · ETH $2,579 — for context on when this was written.
 
 **Target keyword:** sharpe ratio vs sortino vs calmar
 **Meta description:** Sharpe ratio has blind spots: fat tails, upside-volatility penalty, annualization traps. Learn Sortino, Calmar, CVaR and drawdown duration — with runnable code and honest numbers from our MA strategy.
